@@ -7,7 +7,7 @@ An individual Engineering Design 2 project for organizing research about AI in e
 The application code and database migration are implemented. A Supabase project still needs to be connected and live end-to-end testing completed. A public GitHub repository and an unlisted demo video must also be added before submission. Do not submit this as finished while these items remain open.
 
 - Deployed application: see `docs/HANDOFF.md` for the current preview; replace this line with your public Netlify URL after deployment.
-- Demo video: TODO: add the unlisted YouTube URL after recording.
+- Demo video: https://youtu.be/r7oYwKbGLck
 
 ## Features
 
